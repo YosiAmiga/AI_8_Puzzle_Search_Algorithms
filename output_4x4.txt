@@ -1,0 +1,5 @@
+Path to goal: ['12345768109111213141516', '12345768910111213141516']
+Cost : 2
+Nodes expanded: 2753
+Search depth: 2
+Running time: 0.49779480
