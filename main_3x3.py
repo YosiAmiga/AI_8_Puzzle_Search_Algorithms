@@ -1,6 +1,6 @@
 import argparse
 import timeit
-# Information *****************************************************
+# Information
 # Creating the Puzzle State class, in the constructor:
 from collections import deque
 
@@ -12,7 +12,6 @@ from collections import deque
     cost is the cost of each state switching.
     key is the calculated estimation of each state to goal.
 """
-
 
 class PuzzleState:
     def __init__(self, state, parent, move, depth, cost, key):
@@ -37,7 +36,6 @@ class PuzzleState:
 
 
 # Global variables ***********************************************
-
 
 
 GoalState = [1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -301,7 +299,7 @@ def main():
     # parser.add_argument('initialBoard')
     args = parser.parse_args()
     # data1 = args.initialBoard.split(",")
-    with open('3x3_2.txt', 'r') as f:
+    with open('3x3_test.txt', 'r') as f:
         l = [[int(num) for num in line.split(' ')] for line in f]
 
     list = []
@@ -333,7 +331,7 @@ def main():
     if (function == "bfs"):
         bfs(InitialState)
     if (function == "id"):
-        iterativeDeepening(InitialState, 5)
+        iterativeDeepening(InitialState, 10)
     if (function == "astar"):
         ast(InitialState)
 

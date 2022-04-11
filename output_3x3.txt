@@ -1,5 +1,5 @@
-Path to goal: ['523146879', '523146789', '123546789']
-Cost : 3
-Nodes expanded: 437
-Search depth: 3
-Running time: 0.04197860
+Path to goal: ['126457938', '126458937', '126458973', '126453978', '126453987', '123456987', '123456978', '123456798']
+Cost : 8
+Nodes expanded: 23019
+Search depth: 8
+Running time: 1.77509610
