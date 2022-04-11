@@ -10,4 +10,25 @@ For this puzzle we were tasked to implement 3 different algorithms:
 
 the following explanation is in the PDF file that was part of the assignment:
 
-[Q_3.pdf](https://github.com/YosiAmiga/AI_8_Puzzle_Search_Algorithms/files/8468243/Q_3.pdf)
+![image](https://user-images.githubusercontent.com/76450471/162846300-4476dcb4-1e8b-41a5-b3ce-dfebab8f2fe6.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846328-609c8a2f-444e-4799-b132-2da127a5e6d0.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846383-ca68f6c0-4875-4ed5-b3f0-44ecceeab593.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846403-777f1785-32c2-41ad-a7f3-1a96aa607838.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846417-efa6a57b-09d4-46ef-baab-b35eac7c2f46.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846443-dcc32e99-8628-4e5d-9cb8-4d9bb0e36412.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846480-d6623325-0871-4db7-87f0-280a5efb5837.png)
+
+
+![image](https://user-images.githubusercontent.com/76450471/162846500-affbc1d5-e8be-4415-8350-324d63a38f29.png)
